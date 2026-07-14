@@ -16,9 +16,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rucsandraMilitaru&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rucsandraMilitaru&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html&hide_progress=true&card_width=420" alt="Top Languages" />
-</p>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
