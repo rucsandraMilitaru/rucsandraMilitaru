@@ -8,7 +8,7 @@
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,bash,git,linux,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,git,idea,vscode" />
 </p>
 
 ### GitHub Stats
@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rucsandraMilitaru&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rucsandraMilitaru&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html&hide_progress=true&card_width=420" alt="Top Languages" />
 </p>
 
 ### Recent Activity
